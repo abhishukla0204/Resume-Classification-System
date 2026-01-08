@@ -51,8 +51,8 @@ Resume-Screening-App/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Resume-Screening-App.git
-   cd Resume-Screening-App
+   git clone https://github.com/abhishukla0204/Resume-Classification-System
+   cd Resume-Classification-System
    ```
 
 2. **Create a virtual environment**
@@ -146,15 +146,12 @@ joblib>=1.3.0
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
 
 **Abhinav Shukla**
 
-- GitHub: [@abhinavshukla](https://github.com/abhinavshukla)
+- Email: [shukla.abhinav0202@gmail.com](mailto://shukla.abhinav0202@gmail.com)
 
 ## 🙏 Acknowledgments
 
