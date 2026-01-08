@@ -5,7 +5,6 @@ An intelligent resume classification application powered by Machine Learning and
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## ✨ Features
 
@@ -151,13 +150,7 @@ joblib>=1.3.0
 
 **Abhinav Shukla**
 
-- Email: [shukla.abhinav0202@gmail.com](mailto://shukla.abhinav0202@gmail.com)
-
-## 🙏 Acknowledgments
-
-- Dataset: [UpdatedResumeDataSet](https://www.kaggle.com/datasets)
-- Streamlit community for the amazing framework
-- scikit-learn for machine learning utilities
+- Email: [shukla.abhinav0204@gmail.com](mailto://shukla.abhinav0204@gmail.com)
 
 ---
 
