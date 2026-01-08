@@ -1,4 +1,4 @@
-# 📄 Resume Screening App
+# Resume Screening App
 
 An intelligent resume classification application powered by Machine Learning and Natural Language Processing. Upload a resume and get instant job category predictions from 25 different categories.
 
@@ -6,7 +6,7 @@ An intelligent resume classification application powered by Machine Learning and
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-orange.svg)
 
-## ✨ Features
+## Features
 
 - **Smart Classification**: Automatically categorizes resumes into 25 job categories
 - **Multiple File Formats**: Supports PDF, DOCX, and TXT files
@@ -14,7 +14,7 @@ An intelligent resume classification application powered by Machine Learning and
 - **Real-time Analysis**: Instant predictions with confidence display
 - **Text Extraction**: View extracted text from uploaded resumes
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Component | Technology |
 |-----------|------------|
@@ -24,7 +24,7 @@ An intelligent resume classification application powered by Machine Learning and
 | **NLP** | Text preprocessing with regex |
 | **File Parsing** | PyPDF2, python-docx |
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Resume-Screening-App/
@@ -39,7 +39,7 @@ Resume-Screening-App/
 └── README.md                           # This file
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -86,7 +86,7 @@ Resume-Screening-App/
    
    Navigate to `http://localhost:8501`
 
-## 📊 Supported Job Categories (25)
+## Supported Job Categories (25)
 
 | | | | |
 |---|---|---|---|
@@ -98,14 +98,14 @@ Resume-Screening-App/
 | Python Developer | SAP Developer | Sales | Testing |
 | Web Designing | | | |
 
-## 🎨 UI Features
+## UI Features
 
 - **Theme Toggle**: Switch between dark and light modes
 - **Responsive Design**: Works on desktop and mobile
 - **Animated Elements**: Smooth transitions and hover effects
 - **Color Palette**: Warm orange-red gradient theme
 
-## 📝 How It Works
+## How It Works
 
 1. **Text Extraction**: Resume content is extracted from PDF/DOCX/TXT
 2. **Preprocessing**: Text is cleaned (URLs, emails, special characters removed)
@@ -113,7 +113,7 @@ Resume-Screening-App/
 4. **Classification**: SVC model predicts the job category
 5. **Display**: Results shown with category badge and extracted text
 
-## 🔧 Configuration
+## Configuration
 
 The app uses the following model files (must be in the project root):
 
@@ -123,7 +123,7 @@ The app uses the following model files (must be in the project root):
 | `tfidf.pkl` | TF-IDF vectorizer | ~0.15 MB |
 | `encoder.pkl` | Label encoder for categories | ~0.01 MB |
 
-## 📦 Dependencies
+## Dependencies
 
 ```
 streamlit>=1.28.0
@@ -137,7 +137,7 @@ seaborn>=0.12.0
 joblib>=1.3.0
 ```
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -146,7 +146,7 @@ joblib>=1.3.0
 5. Open a Pull Request
 
 
-## 👤 Author
+## Author
 
 **Abhinav Shukla**
 
