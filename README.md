@@ -150,7 +150,7 @@ joblib>=1.3.0
 
 **Abhinav Shukla**
 
-- Email: [shukla.abhinav0204@gmail.com](mailto://shukla.abhinav0204@gmail.com)
+- Email: [shukla.abhinav0204@gmail.com](mailto:shukla.abhinav0204@gmail.com)
 
 ---
 
